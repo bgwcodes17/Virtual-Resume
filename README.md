@@ -62,5 +62,4 @@
           <li>Secure CRT</li>
           <li>Sharepoint</li>
           <li>WebExtender</li>
-          <li>TOAD</li># Virtual-Resume
-Resume
+          <li>TOAD</li>
