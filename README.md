@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Resume</title>
+  <title> Resume </title>
 </head>
 <hr>
 
